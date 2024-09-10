@@ -1,9 +1,9 @@
 
 # Expense Management System using MERN Stack
 
-### Live Website: https://main.d1sj7cd70hlter.amplifyapp.com/
+### Live Website: https://main.d1sj7cd70hlter.amplifyapp.com/](https://expense-tracker-mjao2naua-aaqil-yousufs-projects.vercel.app/login
 
-### Vercel Link: https://expense-tracker-app-three-beryl.vercel.app/
+
 
 ## Project Description:
 
